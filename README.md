@@ -1,5 +1,5 @@
 # SimpleSynth
-### *SimpleSynth - A simple Max4Live synthesizers*
+### *SimpleSynth - A simple Max4Live synthesizer*
 > *This is a synth designed to use with Ableton Live DAW.  
 However, you can easily change it to a 'general' Max patch. If you need help, just let me know.*
 
