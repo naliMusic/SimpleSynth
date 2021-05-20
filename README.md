@@ -1,1 +1,1 @@
-# SimplerSynth
+# SimpleSynth
