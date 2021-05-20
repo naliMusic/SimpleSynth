@@ -1,7 +1,9 @@
 # SimpleSynth
 ### *SimpleSynth - A simple Max4Live synthesizer*
-> *This is a synth designed to use with Ableton Live DAW.  
-However, you can easily change it to a 'general' Max patch. If you need help, just let me know.*
+> *This is a synth designed to use with Ableton Live DAW. However, you can easily change it to a 'general' Max patch.  
+> Click on each section below for details. If you need further help, just let me know.*  
+
+[[Installation](README.md#computer-installation)]  [[Features](README.md#control_knobs-features)]    [[Patches](README.md#gear-patches)]  
 
 ## :computer: Installation
 Make sure your computer has Max 4 Live by following [M4L Setup](https://help.ableton.com/hc/en-us/categories/201105669-Max-for-Live).
